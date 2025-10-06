@@ -3,7 +3,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("assets/bg.png") center bottom no-repeat;
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("assets/bg_cri.jpg") center bottom no-repeat;
     background-size:cover;
     width:100vw;
     height:100vh;
